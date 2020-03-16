@@ -1,0 +1,29 @@
+nav{
+    text-align: right;
+    background-color: aliceblue;
+}
+nav li{
+display:inline-block;
+margin-left: 30px;
+padding-bottom: 30px;
+padding-top: 30px;
+}
+nav a:hover{
+    color:red:
+}
+.sticky{
+    height: 100px;
+    width: 100%;
+
+}
+#home{
+    text-align: center;
+}
+#bio{
+    margin-left: auto;
+    margin-left: auto;
+}
+#img{
+
+    float: left;
+}

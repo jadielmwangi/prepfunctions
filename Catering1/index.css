@@ -1,0 +1,32 @@
+nav{
+    text-align: right;
+    background-color: pink;
+    display: inline-block;
+    margin-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 30px;
+    float: right;
+   
+}
+nav ul{
+    list-style: none;
+}
+nav li{
+    /* display: inline-block;
+    margin-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 30px; */
+}
+nav a:hover{
+    color:red;
+}
+.loc{
+    color: blue;
+}
+#home{
+   background-image: url(/image/hotel.jpg);
+   background-repeat: no-repeat;
+   background-size: cover; 
+}
